@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Overnight no-cook banana oatmeal",
+    "url": "https://recipes.heart.org/en/recipes/overnight-no-cook-banana-oatmeal",
+    "source": "American Heart Association",
+    "slots": ["breakfast"],
+    "tags": ["fiber", "heart", "whole_grain", "balanced"]
+  },
+  {
+    "title": "Black bean salad",
+    "url": "https://recipes.heart.org/en/recipes/black-bean-salad-or-salsa",
+    "source": "American Heart Association",
+    "slots": ["lunch"],
+    "tags": ["fiber", "heart", "iron", "vitamin_c", "unsaturated_fat", "vegetarian"]
+  },
+  {
+    "title": "Lemon-garlic salmon with green beans",
+    "url": "https://recipes.heart.org/en/recipes/lemon-garlic-salmon-foil-pack-with-green-beans-and-new-potatoes",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["omega3", "heart", "vitamin_d", "fish", "b12", "blood_sugar", "low_sugar"]
+  },
+  {
+    "title": "Red lentils with vegetables and brown rice",
+    "url": "https://recipes.heart.org/en/recipes/red-lentils-with-vegetables-and-brown-rice",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["fiber", "iron", "blood_sugar", "whole_grain", "vegetarian", "heart"]
+  },
+  {
+    "title": "Moroccan lentil stew",
+    "url": "https://recipes.heart.org/en/recipes/moroccan-lentil-stew-with-butternut-squash",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["fiber", "iron", "heart", "vegetarian", "low_sugar"]
+  },
+  {
+    "title": "Tuna stir-fry",
+    "url": "https://recipes.heart.org/en/recipes/tuna-stir-fry",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["omega3", "fish", "b12", "heart", "whole_grain", "low_sugar"]
+  },
+  {
+    "title": "Trout with skillet-roasted peppers",
+    "url": "https://recipes.heart.org/en/recipes/trout-with-skillet-roasted-peppers",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["omega3", "vitamin_d", "fish", "heart", "vitamin_c", "b12", "low_sugar"]
+  },
+  {
+    "title": "Curry-spiced tofu with vegetables",
+    "url": "https://recipes.heart.org/en/recipes/curry-spiced-tofu-with-asian-vegetables",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["iron", "vegetarian", "blood_sugar", "balanced", "low_sugar"]
+  },
+  {
+    "title": "Salmon over lentils",
+    "url": "https://health.clevelandclinic.org/recipe-salmon-over-lentils-with-mustard-vinaigrette",
+    "source": "Cleveland Clinic",
+    "slots": ["dinner"],
+    "tags": ["omega3", "fiber", "iron", "heart", "vitamin_d", "b12", "low_sugar"]
+  },
+  {
+    "title": "Herb egg salad with tofu",
+    "url": "https://health.clevelandclinic.org/herb-friendly-recipe-egg-salad",
+    "source": "Cleveland Clinic",
+    "slots": ["lunch"],
+    "tags": ["b12", "vitamin_d", "eggs", "vegetarian", "balanced"]
+  },
+  {
+    "title": "Greek tofu salad",
+    "url": "https://health.clevelandclinic.org/recipe-greek-tofu-salad-with-tomatoes-and-cucumbers",
+    "source": "Cleveland Clinic",
+    "slots": ["lunch"],
+    "tags": ["balanced", "vegetarian", "unsaturated_fat", "low_sugar"]
+  },
+  {
+    "title": "Egg, avocado, and black bean burrito",
+    "url": "https://recipes.heart.org/en/recipes/egg-avocado-and-black-bean-breakfast-burrito",
+    "source": "American Heart Association",
+    "slots": ["breakfast"],
+    "tags": ["fiber", "iron", "b12", "eggs", "blood_sugar", "heart", "whole_grain"]
+  },
+  {
+    "title": "White bean hummus wraps",
+    "url": "https://recipes.heart.org/en/recipes/white-bean-hummus-wraps-with-avocado-and-bell-pepper",
+    "source": "American Heart Association",
+    "slots": ["lunch"],
+    "tags": ["fiber", "iron", "vitamin_c", "vegetarian", "heart", "unsaturated_fat"]
+  },
+  {
+    "title": "Southwestern quinoa and egg bowl",
+    "url": "https://recipes.heart.org/en/recipes/southwestern-quinoa-and-egg-breakfast-bowl",
+    "source": "American Heart Association",
+    "slots": ["breakfast"],
+    "tags": ["whole_grain", "blood_sugar", "b12", "eggs", "fiber", "vitamin_c", "balanced"]
+  },
+  {
+    "title": "White bean and quinoa burgers",
+    "url": "https://recipes.heart.org/en/recipes/white-bean-and-quinoa-burger-with-avocado",
+    "source": "American Heart Association",
+    "slots": ["dinner"],
+    "tags": ["fiber", "whole_grain", "vegetarian", "heart", "iron"]
+  },
+  {
+    "title": "Breakfast tostada with avocado and eggs",
+    "url": "https://recipes.heart.org/en/recipes/better-breakfast-pizza-with-avocado-and-eggs",
+    "source": "American Heart Association",
+    "slots": ["breakfast"],
+    "tags": ["eggs", "b12", "fiber", "blood_sugar", "heart", "balanced"]
+  }
+]

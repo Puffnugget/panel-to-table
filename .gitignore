@@ -1,0 +1,4 @@
+flexdata-main
+flexdata/
+*.txt
+!backend/requirements.txt
